@@ -1,5 +1,5 @@
 module DemoProject
 
-# Write your package code here.
-
+export calcHypotenuse
+include("pythagoras.jl")
 end
