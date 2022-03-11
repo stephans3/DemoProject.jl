@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = DemoProject","category":"page"},{"location":"#DemoProject","page":"Home","title":"DemoProject","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for DemoProject.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [DemoProject]","category":"page"},{"location":"#DemoProject.calcHypotenuse-Tuple{Any, Any}","page":"Home","title":"DemoProject.calcHypotenuse","text":"calcHypotenuse(a,b)\n\nCalculates the hypotenuse of right-angled triangle\n\na : adjacent leg\n\nb : opposite leg\n\n\n\n\n\n","category":"method"}]
+}
